@@ -1,0 +1,8 @@
+pyproject.toml
+zbotactions/__init__.py
+zbotactions/record.py
+zbotactions.egg-info/PKG-INFO
+zbotactions.egg-info/SOURCES.txt
+zbotactions.egg-info/dependency_links.txt
+zbotactions.egg-info/requires.txt
+zbotactions.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+Metadata-Version: 2.2
+Name: zbotactions
+Version: 0.1.0
+Summary: ZBot action recording and playback tools
+Requires-Dist: skillit
